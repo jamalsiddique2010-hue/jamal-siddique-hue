@@ -1,3 +1,4 @@
 # jamal-siddique-hue
 This is my second git repository.
-Author - Mr.Jamal Siddique..............
+<br>
+Author - Mr.Jamal Siddique.
